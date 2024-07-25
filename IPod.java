@@ -1,6 +1,6 @@
 package codeAlong3;
 
-public class IPod implements Playable{
+public class IPod extends Apple implements Playable{
 
   public IPod(){}
 
